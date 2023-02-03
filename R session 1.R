@@ -1,7 +1,5 @@
 getwd()
 
-#setting working directory
-#setwd("C:/Users/Ivlyn/Desktop/Eddy/R sessions")
 
 #loading packages
 install.packages()
